@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Afif — or you can call me Arci.<br>🔭 I’m passionate about photography, digital art, game development, and web development.<br>🌌 A curious mind with a love for the stars (astrophile), the night (nyctophile), and the rain (pluviophile).<br>😄 Pronouns: someone.<br>📫 Currently not available for messages — stay tuned!.<br>⚡ Fun fact: I often blend creativity with code — bringing visuals and interactivity to life.<br>
+👋 Hi there! I’m Afif — or you can call me Arci.<br>🔭 I’m passionate about photography, digital art, game development, and web development.<br>🌌 A curious mind with a love for the stars (astrophile), the night (nyctophile), and the rain (pluviophile).<br>😄 Pronouns: someone.<br>📫 Currently not available for messages — sorry for that🙏.<br>⚡ Fun fact: I often blend creativity with code — bringing visuals and interactivity to life.<br>
 
 
 # 📚 Dipelajari:
