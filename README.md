@@ -20,7 +20,7 @@
 ![](https://streak-stats.demolab.com/?user=AFIF-fahmi&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AFIF-fahmi&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Quote
+###
 ![Quote](https://raw.githubusercontent.com/AFIF-fahmi/AFIF-fahmi/main/quote-card.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
