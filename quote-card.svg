@@ -1,0 +1,10 @@
+<svg width="495" height="140" viewBox="0 0 495 140" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="494" height="139" rx="10" fill="#0d1b2a" stroke="#3949AB" stroke-width="1"/>
+  <text x="25" y="32" font-family="Segoe UI, Verdana, sans-serif" font-size="16" font-weight="700" fill="#5C9DFF">📖 Quote</text>
+  <text font-family="Segoe UI, Verdana, sans-serif" font-size="13" font-style="italic" fill="#C9D6F5">
+    <tspan x="25" y="60">"Like a librarian among endless shelves,</tspan>
+    <tspan x="25" y="80">I don't chase every answer —</tspan>
+    <tspan x="25" y="100">I just learn where to look,</tspan>
+    <tspan x="25" y="120">and let curiosity do the work."</tspan>
+  </text>
+</svg>
